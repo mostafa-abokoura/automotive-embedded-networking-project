@@ -1,4 +1,6 @@
-# MCT411 Automotive Embedded Networking
+# automotive-embedded-networking-project
+
+## MCT411 Automotive Embedded Networking Final Project
 
 - Three Tiva-C boards to simulate a token ring system (that can recover if dropped) and ADAS
 - The token and buttons affect the whole system with a state machine
